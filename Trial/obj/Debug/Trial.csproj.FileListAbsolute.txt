@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Trial\Trial\bin\Debug\Trial.exe.config
+C:\Users\Lenovo\Desktop\Trial\Trial\bin\Debug\Trial.exe
+C:\Users\Lenovo\Desktop\Trial\Trial\bin\Debug\Trial.pdb
+C:\Users\Lenovo\Desktop\Trial\Trial\obj\Debug\Trial.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Trial\Trial\obj\Debug\Trial.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Trial\Trial\obj\Debug\Trial.exe
+C:\Users\Lenovo\Desktop\Trial\Trial\obj\Debug\Trial.pdb
